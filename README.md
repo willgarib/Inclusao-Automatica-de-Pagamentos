@@ -7,7 +7,7 @@ Rotinas criadas em *Excel-VBA*, a partir do preenchimento de tabelas, criam um a
 - No arquivo SISPAG-ITAÚ (*.xlsm*) vá até a planilha *Listas* e preencha a tabela com as informações da sua empresa.
 - Depois, vá até a planilha *Arquivo* e selecione na célula ```C4``` o **CNPJ** que fará os pagamentos, note que a agência e conta são selecionadas automaticamente.
 - Na planilha *Lote* selecione o **Tipo de Pagamento**, **Forma de Pagamento** e, novamente, o CNPJ.
-> Nota: Verifique a compatibilidade entre os **Tipos** e **Formas** de pagamento no arquivo *SISPAG - SISTEMA DE CONTAS A PAGAR ITAÚ*
+> Nota: Verifique a compatibilidade entre os **Tipos** e **Formas** de pagamento na página 04 do arquivo *SISPAG - SISTEMA DE CONTAS A PAGAR ITAÚ*
 - Entre com as informações dos favorecidos nas planilha *Lote Datalhe* e *Lote Datalhe (2)*
   - Em *Lote Datalhe* coloque apenas pagamentos para contas do ITAÚ (cód 341)
   - Em *Lote Datalhe (2)* coloque pagamentos de outros bancos
