@@ -1,7 +1,7 @@
 # Inclusão Automática de Pagamentos
 Intercâmbio Eletrônico de Arquivos (SISPAG - ITAÚ)
 
-Rotinas criadas em *Excel-VBA*, a partir do preenchimento de tabelas, criam um arquivo Layout que pode ser carregado no *app* do banco **ITAÚ**. Os pagamentos serão processados e ficarão aguardando autorização.
+Rotinas criadas em *Excel-VBA* que, a partir do preenchimento de tabelas, criam um arquivo Layout que pode ser carregado no *app* do banco **ITAÚ**. Os pagamentos serão processados e ficarão aguardando autorização.
 
 ## Como Utilizar?
 - No arquivo SISPAG-ITAÚ (*.xlsm*) vá até a planilha *Listas* e preencha a tabela com as informações da sua empresa.
